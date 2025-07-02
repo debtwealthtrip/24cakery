@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Newly Revised 3rd In Brief Edition
 //
-// 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
+
 //login page to add 
 
 import SwiftUI
